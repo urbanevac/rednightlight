@@ -36,7 +36,7 @@ Red light preserves night vision because it doesn't trigger the same photorecept
 1. Clone the repository:
 ```bash
 git clone https://github.com/urbanevac/rednightlight/
-cd red-light-flashlight
+cd rednightlight
 ```
 
 2. Install dependencies:
