@@ -2,7 +2,6 @@
 
 A web-based red light flashlight app designed to preserve night vision while providing illumination. Perfect for astronomy, night photography, military operations, or any situation where you need to see in the dark without ruining your night adaptation.
 
-![Red Light Flashlight App](https://placeholder.svg?height=400&width=800)
 
 ## ✨ Features
 
@@ -35,9 +34,10 @@ Red light preserves night vision because it doesn't trigger the same photorecept
 ### Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/urbanevac/rednightlight/
-   cd red-light-flashlight
+```bash
+git clone https://github.com/urbanevac/rednightlight/
+cd red-light-flashlight
+```
 
 2. Install dependencies:
 
@@ -110,5 +110,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 
 ---
-
-Made with ❤️ by `<a href="https://morituri.co">`morituri.co`</a>`
